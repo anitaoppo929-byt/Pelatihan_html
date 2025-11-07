@@ -1,7 +1,7 @@
 body {
-  background-color: #8B008B;
+  background-color: #FFA4A4;
   font-family:Arial, sans-serif;
-  color: #191970;
+  color: #BADFDB;
 }
 .kartu-pp {
   width:300px;
